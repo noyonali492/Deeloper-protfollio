@@ -63,3 +63,15 @@ h2 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
+
+#full-stack-developer {
+    border-left: 7px solid tomato;
+}
+
+#baby-web-developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
